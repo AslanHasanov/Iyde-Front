@@ -66,16 +66,19 @@
   top: 0;
   z-index: 9;
   background-color: #fdfcfc;
-
+  
+  
   .headerMiddleChild{
     align-items: center;
     display: flex;
     justify-content: space-between;
+    padding: 0;
     padding: 1.5rem 0 1.2rem;
   }
 
 .headerMidChild{
   width: 60%;
+
 }
   .form{
     background-color: #fdfcfc;
