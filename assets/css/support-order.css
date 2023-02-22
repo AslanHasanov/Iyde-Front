@@ -76,4 +76,13 @@
   font-weight: 700;
   line-height: 144%;
   margin-bottom: 3.2rem;
+}
+
+@media (max-width: 576px) {
+  .supportOrder-section .breadCrumb {
+    display: none;
+  }
+  .supportOrder-section .supportOrderMain {
+    padding: 0;
+  }
 }/*# sourceMappingURL=support-order.css.map */

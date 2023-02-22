@@ -80,3 +80,13 @@
         }
     }
 }
+@media (max-width:576px) {
+    .supportOrder-section{
+        .breadCrumb{
+            display: none;
+        }
+        .supportOrderMain{
+            padding: 0;
+        }
+    }
+}
