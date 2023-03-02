@@ -383,7 +383,7 @@
   height: 59%;
 }
 .Basket-section .right-card .card-total .total-left p {
-  color: hsla(0deg, 0%, 7%, 0.75);
+  color: hsla(0, 0%, 7%, 0.75);
   display: flex;
   font-size: 14px;
   font-style: normal;
@@ -397,7 +397,7 @@
   width: 50%;
 }
 .Basket-section .right-card .card-total .total-right p {
-  color: hsla(0deg, 0%, 7%, 0.75);
+  color: hsla(0, 0%, 7%, 0.75);
   font-size: 24px;
   font-style: normal;
   font-weight: 500;
@@ -413,7 +413,7 @@
 }
 .Basket-section .right-card .order-complete a {
   border-bottom: 0.1rem solid rgba(0, 0, 0, 0.7);
-  color: hsla(0deg, 0%, 7%, 0.75);
+  color: hsla(0, 0%, 7%, 0.75);
   font-size: 14px;
   font-style: normal;
   font-weight: 400;

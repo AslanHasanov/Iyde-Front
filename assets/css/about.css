@@ -148,7 +148,7 @@
 .certifications-section .certificate-card {
   align-items: center;
   background: #fefefe;
-  box-shadow: 0 8px 20px hsla(0deg, 0%, 77%, 0.2);
+  box-shadow: 0 8px 20px hsla(0, 0%, 77%, 0.2);
   display: flex !important;
   flex-direction: column;
   justify-content: center;
